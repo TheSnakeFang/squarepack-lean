@@ -5,3 +5,4 @@ import Sqlean.CheckCore
 import Sqlean.Check
 import Sqlean.Glue
 import Sqlean.Main
+import Sqlean.Theorem2
