@@ -3,4 +3,5 @@ import Sqlean.Vendor.ExactPack
 import Sqlean.Rect
 import Sqlean.CheckCore
 import Sqlean.Check
-import Sqlean.Pieces.N343
+import Sqlean.Glue
+import Sqlean.Main
