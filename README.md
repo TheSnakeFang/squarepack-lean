@@ -1,7 +1,7 @@
 # squarepack-lean
 
 Kernel-checked Lean 4 proof of Theorems 1 and 2 of the note "Packing n² − n + 1 unit squares in a
-square of side less than n" (squarepack `docs/note-draft.md`), in Evan Daniel's specification
+square of side less than n" (certificates and note: https://github.com/TheSnakeFang/squarepack-certs), in Evan Daniel's specification
 (`Sqlean/Vendor/Spec.lean`, unchanged: closed unit squares, any rotation, inside `[0, s]²`,
 pairwise disjoint interiors; `minSide n = sInf {s | Packs n s}`).
 
